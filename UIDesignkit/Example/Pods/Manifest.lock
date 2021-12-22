@@ -1,0 +1,16 @@
+PODS:
+  - UIDesignkit (0.1.0)
+
+DEPENDENCIES:
+  - UIDesignkit (from `../`)
+
+EXTERNAL SOURCES:
+  UIDesignkit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  UIDesignkit: 2612f38d0116ff1ad83aff41fde61fa5bf6c2206
+
+PODFILE CHECKSUM: d6c15f4da3888803255d99b3d53b0d320edc8206
+
+COCOAPODS: 1.11.2
