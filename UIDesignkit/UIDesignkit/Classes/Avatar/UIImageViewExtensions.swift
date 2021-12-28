@@ -8,7 +8,7 @@
 import UIKit
 
 public extension UIImageView {
-    func asAvatar(cornerRadius: CGFloat = 6) {
+    func asAvatar(cornerRadius: CGFloat = 4) {
         layer.cornerRadius = cornerRadius
         clipsToBounds = true
     }
